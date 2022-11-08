@@ -1,0 +1,60 @@
+.extcss1{
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    font-size: 12px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #333;
+    width: 300px;
+    float: left;
+}
+.xleftcol {
+    float: left;
+    width: 33%;
+    background:#809900;
+ }
+ .xmiddlecol {
+    float: left;
+    width: 34%;
+    background:#eff2df;
+ }
+.extcss2{
+    background-color: #809900;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    font-size: 12px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #333;
+    width: 300px;
+    float: right;
+}
+.bordertop{
+    border-top: 1px solid #ccc;
+}
+
+/* class for a big box */
+.bigbox{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+.smallbox{
+    width: 100px;
+    border: 5px solid red;
+    padding: 20px;
+    margin: 10px;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
